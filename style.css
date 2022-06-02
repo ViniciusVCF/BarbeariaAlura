@@ -254,6 +254,14 @@ td, th {
 		position: static;
 	}
 
+	.principal, .mapa-conteudo {
+		margin: 0 15px 0 15px;
+	}
+
+	.conteudo-beneficios {
+		margin: 15px;
+	}
+
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
 	}
